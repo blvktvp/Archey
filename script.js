@@ -1,4 +1,4 @@
-var svg = document.querySelector("svg");    
+var svg = document.querySelector("svg");   
 var cursor = svg.createSVGPoint();
 var arrows = document.querySelector(".arrows");
 var randomAngle = 0;
